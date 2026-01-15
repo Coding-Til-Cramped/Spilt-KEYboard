@@ -1,4 +1,4 @@
-# split keyboard
+# Split keyboard
 
 My Split Keyboar has 41 keys that are controlled by 2 XIAO-nRF52840 because of their bluetooth, this keyboard will run on ZMK firmware
 
@@ -39,3 +39,17 @@ Insert image
 I am using ZMK firmware as it seems to be the go to for custom keyboards
 
 # BOM
+
+2x Seeed Studio XIAO nRF52840
+
+42x MX-style mechanical switches
+
+42x MX compatible white keycaps
+
+42x SMD diodes – 1N4148 (SOD-123)
+
+2x Li-Po battery, 3.7 V (JST-PH 2-pin)
+
+2x 802 kΩ resistor (0603)
+
+2x 2 MΩ resistor (0603)
