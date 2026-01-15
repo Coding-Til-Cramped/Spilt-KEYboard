@@ -18,7 +18,7 @@ I am planning on designing a case onece i know the pcb model will work it will h
 
 Here is My PCB for a rough idea of the shape:
 
-Insert image
+![3D model](Images/3D_MODEL.png)
 
 # PCB
 
@@ -26,13 +26,13 @@ This is my PCB it is my second PCB in kicad and i think i have become a lot more
 
 SCHEMATIC:
 
-insert image
+![PCB schematic](Images/PCB_SCHEMATIC.png)
 
 This is my PCB layout, i tried to make it look like some ergonomic split keyboard that i saw online and this is what i came up with 
 
 PCB:
 
-Insert image
+![PCB layout](Images/PCB_LAYOUT.png)
 
 # Firmware 
 
