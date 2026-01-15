@@ -38,7 +38,7 @@ PCB:
 
 I am using ZMK firmware as it seems to be the go to for custom keyboards
 
-# BOM
+# BOM (not final checking on the slack)
 
 2x Seeed Studio XIAO nRF52840
 
